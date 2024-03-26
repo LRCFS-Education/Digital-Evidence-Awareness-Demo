@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":404,"text":"We have matrix A plus B,"},{"start":3296,"text":"matrix A times B,"},{"start":5632,"text":"and matrix"},{"start":6818,"text":"A times B with percentages around the multiplication sign."},{"start":11968,"text":"If we use the multiplication command "},{"start":14333,"text":"without the percentage symbol"},{"start":16360,"text":"then it does an elementwise multiplication,"},{"start":20969,"text":"so we have 5 times 1,"},{"start":23783,"text":"2 times 1,"},{"start":25664,"text":"4 times 6,"},{"start":28256,"text":"but if we use the percentage around the multiplication"},{"start":32224,"text":"then it does matrix multiplication."}]}]};
+    window.globalLoadJsAsset('story_content/6cZs9rYone7_transcripts.js', JSON.stringify(data));
+})();

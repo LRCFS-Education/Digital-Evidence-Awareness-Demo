@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":408,"text":"So, we have,"},{"start":2582,"text":"statement P which is TRUE "},{"start":5951,"text":"and statement D which is FALSE."},{"start":9396,"text":"Statement P OR statement D,"},{"start":12759,"text":"because at least one of these statements is true we expect to get TRUE."},{"start":19264,"text":"Statement P AND statement D,"},{"start":22624,"text":"because it is an AND operator all must be true before we get a TRUE "},{"start":29152,"text":"so because there is at least one false statement everything is FALSE."},{"start":37024,"text":"NOT statement D,"},{"start":39268,"text":"we know that statement D is FALSE"},{"start":42240,"text":"so NOT statement D is TRUE"},{"start":45440,"text":"in the same fashion NOT D is true,"},{"start":49472,"text":"so in this case,"},{"start":51020,"text":"when we have D or NOT D then we expect to get TRUE."}]}]};
+    window.globalLoadJsAsset('story_content/6euRb1kyEJJ_transcripts.js', JSON.stringify(data));
+})();

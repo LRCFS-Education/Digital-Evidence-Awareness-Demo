@@ -1,0 +1,27 @@
+{
+  "version": "3.67.28569.0",
+  "course_id": "5amjgOfluUE",
+  "title": "HyperPhysics",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Fair Principles"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6bH5VLIgoJx",
+      "title": "FAIR Principles Website",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 571
+  },
+  "stage": {
+    "width": 720,
+    "height": 500
+  }
+}
